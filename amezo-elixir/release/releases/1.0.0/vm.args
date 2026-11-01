@@ -1,0 +1,2 @@
+## 分散はループバックだけに閉じる (archive.sh の rpc 用)
+-kernel inet_dist_use_interface {127,0,0,1}

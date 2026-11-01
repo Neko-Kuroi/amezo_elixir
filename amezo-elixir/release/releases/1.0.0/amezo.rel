@@ -1,0 +1,11 @@
+%% coding: utf-8
+{release,{"amezo","1.0.0"},
+         {erts,"13.2.2.5"},
+         [{kernel,"8.5.4.2",permanent},
+          {stdlib,"4.3.1.3",permanent},
+          {elixir,"1.14.0",permanent},
+          {sasl,"4.2",permanent},
+          {amezo,"1.0.0",permanent},
+          {iex,"1.14.0",none},
+          {compiler,"8.2.6.3",permanent},
+          {crypto,"5.1.4.1",permanent}]}.
